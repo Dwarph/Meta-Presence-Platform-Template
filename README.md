@@ -6,4 +6,4 @@ An empty unity project with...
 - Unity 2022.3.30f1 LTS
 
 
-made this purely for my convinience. Feel free to fork for your own projects. 
+made this purely for my convenience. Feel free to fork for your own projects. 
